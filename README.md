@@ -182,6 +182,8 @@ Description: Get a vote from a user for a <p>
 restaurant<p>
 
 
-The passwords are stored in DB, encrypted with BCrypt. There’s the Basic authentication since that we have to use HTTPS here.
+The passwords are stored in DB, encrypted with BCrypt. There’s the Basic authentication since that we have to use HTTPS here. 
+Admin credentials - admin@gmail.com:admin12345
+User credentials - mussalimov46@gmail.com:user12345
 <hr>
 Задание интересное, сомневаюсь, что такое дадут новичку.
